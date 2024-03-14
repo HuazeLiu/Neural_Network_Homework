@@ -1,1 +1,3 @@
-# Homework-0-Background
+# CS152 HM Coursework & Project
+## Author: Huaze Liu
+## Instructor: Prof. Gabriel Hope
